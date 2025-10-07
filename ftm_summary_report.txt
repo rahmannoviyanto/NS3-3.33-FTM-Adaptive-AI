@@ -1,0 +1,29 @@
+======================================================================
+FTM ADAPTIVE WIFI - COMPREHENSIVE ANALYSIS REPORT
+======================================================================
+Generated: 2025-10-07 14:49:25
+Total Samples: 36
+
+[STA1 - STATIC STATION]
+----------------------------------------------------------------------
+Average Distance:    5.00 m
+Average Throughput:  5.133 Mbps
+Average PDR:         99.93%
+Average Loss:        0.07%
+Average Delay:       3.146 ms
+Average RSSI:        -44.40 dBm
+
+[STA2 - MOBILE STATION]
+----------------------------------------------------------------------
+Distance Range:      5.00 - 15.81 m
+Average Throughput:  5.135 Mbps
+Average PDR:         99.96%
+Average Loss:        0.04%
+Average Delay:       3.174 ms
+Average RSSI:        -51.42 dBm
+
+[AI DECISION SUMMARY]
+----------------------------------------------------------------------
+maintain: 9 times
+increase_power: 6 times
+decrease_power: 3 times

@@ -4,6 +4,7 @@
  * Compatible with NS-3.33
  * STA1: Static position (5m from AP1)
  * STA2: Dynamic movement (5m -> 20m -> 10m from AP2)
+ * created by rahman
  */
 #include "ns3/core-module.h"
 #include "ns3/point-to-point-module.h"
